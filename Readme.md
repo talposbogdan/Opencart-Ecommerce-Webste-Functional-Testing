@@ -11,7 +11,7 @@ Testing documentation:
 
 3.Test cases execution
 
-4.Requirment traceability matrix(RTM)
+4.Requirment traceability 
 
 5.Bug report
 
@@ -21,7 +21,7 @@ Technical tools:
 
 Website : https://demo.opencart.com/index.php?route=common/home&language=en-gb
 
-Project Management Tool : ClickUp and Jira
+Project Management Tool :  and Jira
 
 Bug Tracking Tool: Jira
 
